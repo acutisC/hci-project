@@ -19,7 +19,7 @@
 
 ## MAKE RESERVATION
 -----
-![alt text](images/make_reservation_1.png "Make reservation")
+![alt text](images/make_reservation.png "Make reservation")
 
 ## SEARCH BAR
 -----
